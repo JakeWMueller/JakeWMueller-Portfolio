@@ -29,13 +29,13 @@ __MapBox__ <br/>
 __OpenStreetMaps__ <br/>
 __Material_UI__ <br/>
 
-#### __**In Progress__
-###### Machine Learning 
-  1. Matlab
-  2. Octave
-###### Frameworks
-  1. Flask
-  2. Django
-  3. Polymer
-###### Other
-  1. AWS
+#### __In Progress__
+##### Machine Learning 
+Matlab <br/>
+Octave <br/>
+##### Frameworks
+Flask <br/>
+Django <br/>
+Polymer <br/>
+##### Other
+AWS
