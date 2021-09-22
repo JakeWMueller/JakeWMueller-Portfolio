@@ -13,7 +13,7 @@ __Express__ <br/>
 __React__ <br/>
 __Node.js__ <br/>
 
-### __Skills__
+### __Misc. Skills__
 __Linux__ <br/>
 __git/version control__ <br/>
 __Heroku__ <br/>
@@ -30,11 +30,12 @@ __OpenStreetMaps__ <br/>
 __Material_UI__ <br/>
 
 #### __**In Progress__
-1. Machine Learning 
+###### Machine Learning 
   1. Matlab
   2. Octave
-2. Frameworks
+###### Frameworks
   1. Flask
   2. Django
-3. Server
+  3. Polymer
+###### Other
   1. AWS
