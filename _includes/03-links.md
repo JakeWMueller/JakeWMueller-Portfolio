@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub Jake Mueller](https://github.com/JakeWMueller/)
+[LinkedIn Jake Mueller](https://linkedin.com/jake-mueller/)
+[CodeWars Jake Mueller](https://codewars/com/users/JakeWMueller/)
