@@ -1,2 +1,2 @@
-# Jake Mueller Markdown Practice
-## Thanks GitHub Bot
+# Jake Mueller's Portfolio in Markdown
+## A brief introduction
